@@ -15,3 +15,10 @@ TOSDataBridge (TOSDB) is an open-source collection of resources for pulling real
 
 '''
 
+It looks like that library requires a local installation of thinkorswim. I have a TDAmeritrade account, and can download thinkorswim, but I don't think I can share the program.
+
+I found [IEX Trading](https://iextrading.com/developer/docs/), an open access stock data API. It has real-time and historical timeseries data. It seems other people have already written libraries to use the API, including six written in Python. We could look through those and see which is flexible enough for our uses.
+
+**JOR**
+
+'''
