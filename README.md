@@ -22,3 +22,13 @@ I found [IEX Trading](https://iextrading.com/developer/docs/), an open access st
 **JOR**
 
 '''
+
+'''
+
+I have thinkorswim now, it was pretty easy to sign up and you don't have to load any cash in at first. Until you load money in, all stocks are 20 minutes behind but that wouldn't be too big of a problem during development.
+
+I've heard mixed things on IEX but I'd be willing to try anything. People keep saying pandas_datareader works with new code but I cannnnnnot get it to work. I've updated all of my packages and tried all sorts of things. Let me know if you get pandas_datareader to work. I've been using 'pip3 install' to insure I have the Python 3 versions.
+
+JMO
+
+'''
